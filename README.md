@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Go
+# Data Structures and Algorithm Analysis in Go
 
 ## Implementation
 ### Data structures
